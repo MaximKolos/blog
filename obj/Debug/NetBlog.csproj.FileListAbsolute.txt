@@ -1,0 +1,232 @@
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\obj\Debug\NetBlog.csproj.CoreCompileInputs.cache
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\obj\Debug\NetBlog.csproj.CopyComplete
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\obj\Debug\NetBlog.csprojAssemblyReference.cache
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lost\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\obj\Debug\NetBlog.csprojAssemblyReference.cache
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\obj\Debug\NetBlog.csproj.CoreCompileInputs.cache
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\obj\Debug\NetBlog.csproj.CopyComplete
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Maxim Kolos\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

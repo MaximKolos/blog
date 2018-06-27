@@ -1,0 +1,78 @@
+﻿html {
+    background-color: sienna;
+    width: 80%;
+    margin: auto;
+}
+body {
+    font-family:Arial;
+}
+div{
+    display:block;
+}
+.logo{
+    font-size:20px;
+    display:block;
+    position:relative;
+    padding-top:15px;
+}
+.menu{
+    position:relative;
+    float:right;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top {
+    background: #236323;
+}
+button.btn.btn-primary {
+    background: #2B7A6B;
+}
+.sing {
+    border: 0px;
+    background: linear-gradient(to top, #C6C69C, #2B7A6B);
+    margin-top: 10%;
+    position: relative;
+    width: 40%;
+    float: left;
+    padding: 15px;
+    z-index:2;
+}
+.tsing {
+    text-align: center;
+    font-size: 16px;
+}
+.ging {
+    border: 0px;
+    background: linear-gradient(to top, #C6C69C, #2B7A6B);
+    margin-top: 10%;
+    position: relative;
+    width: 40%;
+    float: right;
+    padding: 15px;
+    z-index:2;
+}
+
+#banner:after {
+    background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
+    content: ' ';
+    display: block;
+    opacity: 0.6;
+    position: absolute;
+    webkit-linear-gradientidth: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    left:0;
+    z-index: 1;
+}
+video {
+    position: absolute;
+    width:100%;
+    bottom:0;
+    left:0;
+    padding: 0 auto;
+}
+
+@media screen and (max-width: 1920px) {
+    #banner video {
+        z-index: 1;
+    }
+}
